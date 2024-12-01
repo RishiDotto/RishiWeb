@@ -1,5 +1,5 @@
 body {
-    background-image: url(file:///Users/ricardocastroquesada/Documents/rishidotto/Media/bg_water.gif);
+    background-image: "Media/bg_water.gif";
     background-repeat: repeat;
     background-position: top center;
     background-attachment: fixed;
